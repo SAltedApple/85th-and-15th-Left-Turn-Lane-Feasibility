@@ -17,7 +17,7 @@ Both approaches are short by more than the aerial imagery's accuracy of about 0.
 
 ## Files
 - `plans/85th-15th_existing_conditions`: Sheet 1 (existing conditions) 1" = 20', ANSI D
-- `85th-15th_proposed_conditions` Sheet 2 (proposed), 1" = 20', ANSI D
+- `plans/85th-15th_proposed_conditions` Sheet 2 (proposed), 1" = 20', ANSI D
 - `memo/85th-15th_memo.pdf`: one-page memo with findings, constraints, options and limits
 - `data/signs_and_access_points.xlsx`: keys for the S and A labels on the sheets
 
