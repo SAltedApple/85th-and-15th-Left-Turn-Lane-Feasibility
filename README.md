@@ -19,7 +19,7 @@ Both approaches are short by more than the aerial imagery's accuracy of about 0.
 - `plans/85th-15th_existing_conditions`: Sheet 1 (existing conditions) 1" = 20', ANSI D
 - `85th-15th_proposed_conditions` Sheet 2 (proposed), 1" = 20', ANSI D
 - `memo/85th-15th_memo.pdf`: one-page memo with findings, constraints, options and limits
-- `data/signs.csv`, `data/access_points.csv`: keys for the S and A labels on the sheets
+- `data/signs_and_access_points.xlsx`: keys for the S and A labels on the sheets
 
 ## Method
 Existing conditions were traced on Nov 14, 2026 from aerial imagery using QGIS and AutoCAD. Lane use was observed in the field on Nov 16, 2026, and bus stops and routes on Nov 22, 2026 from a passing vehicle. Proposed curbs are nominal offsets of the traced curbs.
